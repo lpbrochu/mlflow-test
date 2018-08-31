@@ -1,0 +1,13 @@
+artifact_uri: /home/lpbrochu/workspace/mlflow/example/tutorial/mlruns/0/4434a374daba47a6ab177307f4d1d7b9/artifacts
+end_time: 1535715349575
+entry_point_name: main
+experiment_id: 0
+name: Run 0
+run_uuid: 4434a374daba47a6ab177307f4d1d7b9
+source_name: file:///home/lpbrochu/workspace/mlflow#example/tutorial
+source_type: 3
+source_version: a3b2605a6525edc36d17e15794bd51914952a946
+start_time: 1535715215163
+status: 3
+tags: []
+user_id: lpbrochu
